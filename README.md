@@ -7,8 +7,8 @@
 ### 🌊 À propos de moi
 
 - 👑 **Statut :** Dieu Slime résidant dans la Mare d’Aol (accompagné d'Aol l'Axolotl 🦎)
-- 🎬 **Montage Vidéo :** Disponible sur [VGen](https://vgen.co) pour vos vidéos & formats courts !
-- 💻 **Projet secret :** Développement de **SlimeOS** (Distro Linux taillée pour le gaming & dev)
+- 🎬 **Montage Vidéo :** Disponible sur [VGen](https://vgen.co/levraisteeltv) pour vos vidéos & formats courts !
+- 💻 **Projet secret :** Développement de **Vtuber Addon's** (Un mods minecraft remplie de vtuber français ! )
 - 🚫 **Éthique :** Zone 100% Anti-IA Générative. Ici, on soutient la création humaine !
 
 ---
@@ -26,11 +26,11 @@
 
 ### 🎮 Mes Réseaux Divins
 
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/steeltv)
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/levraisteeltv)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@levraisteeltv)
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@levraisteeltv)
 [![X/Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/levraisteeltv)
 
 ---
 
-> 🦀 *Actuellement coincé et brisé par Another Crab's Treasure sur Twitch...*
+> *Actuellement entrain de me casser le crane...*
